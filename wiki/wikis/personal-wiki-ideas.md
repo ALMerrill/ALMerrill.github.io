@@ -10,3 +10,8 @@ created: 2022-01-30 04:49:46Z
 - Joplin: https://github.com/ylc395/joplin-plugin-pages-publisher
 - keep an eye on bangle.io. If built in git syncing through api is implemented, I could try it with mobile as a note app
   - https://github.com/bangle-io/bangle-io/issues/223
+
+
+# TODO
+
+- [ ] Figure out a good way to use joplin to edit files, and then easily export them and update the repo to republish to the site
