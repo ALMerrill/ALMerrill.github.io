@@ -8,7 +8,7 @@ Location: Redacted
 
 Here's what I'm up to right now.
 
-- I work at a startup in called DeliciousAI
+- I work at a startup in called Redacted
 - We recently bought a house and we're about to move to Redacted
 - I just put together this site, and I have a goal to organize all my thoughts better, and have one central location to store all of my notes, ideas, snippits, etc.
 - Just added redacted because I don't feel like commiting information right now, haha
